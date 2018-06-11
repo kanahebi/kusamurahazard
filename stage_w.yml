@@ -1,0 +1,35 @@
+stage6:
+  humu:
+    n: 10
+  karu:
+    n: 10
+  mosu:
+    n: 10
+  kesu:
+    n: 10
+  re: 20
+  comd: 4
+
+stage7:
+  humu:
+    n: 11
+  karu:
+    n: 11
+  mosu:
+    n: 11
+  kesu:
+    n: 11
+  re: 38
+  comd: 4
+
+stage8:
+  humu:
+    n: 20
+  karu:
+    n: 20
+  mosu:
+    n: 20
+  kesu:
+    n: 20
+  re: 65
+  comd: 4

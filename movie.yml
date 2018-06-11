@@ -1,0 +1,125 @@
+movie_1:
+  haikei:
+    - suwako2.gif
+    - suwako.gif
+    - hara.gif
+    - bed.gif
+    - bed2.gif
+    - mado.gif
+    - mado2.gif
+    - ieie.gif
+    - ieie2.gif
+    - souko.gif
+    - souko2.gif
+    - ie2.gif
+    - obasan.gif
+  bun: 21
+
+movie_2:
+  haikei:
+    - wata2.gif
+  bun: 4
+
+movie_3:
+  haikei:
+    - hatake.gif
+  bun: 11
+
+movie_4:
+  haikei:
+    - kitchen.gif
+    - kitchen2.gif
+    - kitchen6.gif
+    - kitchen3.gif
+    - kitchen4.gif
+    - kitchen5.gif
+  bun: 20
+
+movie_5:
+  haikei:
+    - kaisya.gif
+    - kaisya2.gif
+    - monooki.gif
+  bun: 17
+
+movie_6:
+  haikei:
+    - syokutaku.gif
+    - door.gif
+    - door2.gif
+    - door3.gif
+    - haragutike.gif
+    - moeru.gif
+    - haragutike2.gif
+  bun: 16
+
+movie_7:
+  haikei:
+    - komatatuti.gif
+    - komatatutisita.gif
+  bun: 8
+
+movie_8:
+  haikei:
+    - jb.gif
+  bun: 14
+
+movie_9:
+  haikei:
+    - jb.gif
+  bun: 4
+
+movie_10:
+  haikei:
+    - kitaku.gif
+    - kakeru.gif
+    - kakeru2.gif
+    - ase.gif
+    - doyon.gif
+    - tereru.gif
+  bun: 15
+
+movie_2_1:
+  haikei:
+    - suwako.gif
+    - kaisya.gif
+    - syanai0.gif
+    - syanai1.gif
+    - syanai2.gif
+  bun: 10
+
+movie_2_2:
+  haikei:
+    - syanai3.gif
+    - syanai4.gif
+    - syanai0.gif
+    - syanai5.gif
+    - sean1.gif
+    - sean2.gif
+  bun: 15
+
+movie_2_3:
+  haikei:
+    - syanai8.gif
+    - syanai6.gif
+    - syanai10.gif
+  bun: 7
+
+movie_2_4:
+  haikei:
+    - syanai8.gif
+    - syanai7.gif
+    - syanai11.gif
+  bun: 7
+
+movie_2_5:
+  haikei:
+    - syanai0.gif
+    - syanai1.gif
+  bun: 10
+
+movie_2_6:
+  haikei:
+    - syanai2.gif
+    - syanai9.gif
+  bun: 7
